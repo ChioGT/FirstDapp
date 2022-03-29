@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "servidor lite"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.9.2",
+    "lite-server": "^2.6.1"
+  }
+}
